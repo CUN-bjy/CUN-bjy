@@ -11,6 +11,10 @@
 - SLAM(especially localization)
 - Vision(Perception etc.)
 
+### Sideproject
+- [WalkYTo-rl](https://github.com/CUN-bjy/WalkYTo-rl) *(in process)*
+- [pg-paper-review](https://github.com/CUN-bjy/pg-paper-review) *(in process)*
+
 <!--
 **CUN-bjy/CUN-bjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
