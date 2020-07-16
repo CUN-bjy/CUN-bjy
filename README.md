@@ -3,8 +3,7 @@
 
 
 ### Robotics Software Engineer
-*now*
-- Robotics Software Engineer in the field of Industrial Mobile Robot(AMR) (at *Syscon Co.,Ltd*)
+- [*now*]Robotics Software Engineer in the field of Industrial Mobile Robot(AMR) (at *Syscon Co.,Ltd*)
 
 ### Interest
 - Reinforcement Learning(especially Physical Control Intelligence)
