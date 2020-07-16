@@ -3,7 +3,7 @@
 
 
 ### Robotics Software Engineer
-*NOW*
+*now*
 - Robotics Software Engineer in the field of Industrial Mobile Robot(AMR) (at *Syscon Co.,Ltd*)
 
 ### Interest
