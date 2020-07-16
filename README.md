@@ -11,7 +11,7 @@
 - SLAM(especially localization)
 - Vision(Perception etc.)
 
-### Side Project
+#### *Side Project*
 - [WalkYTo-rl](https://github.com/CUN-bjy/WalkYTo-rl) *(in process)*
 - [pg-paper-review](https://github.com/CUN-bjy/pg-paper-review) *(in process)*
 
