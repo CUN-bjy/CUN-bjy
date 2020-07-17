@@ -4,6 +4,7 @@
 
 ### Robotics Software Engineer
 - [*now*]Robotics Software Engineer in the field of Industrial Mobile Robot(AMR) (at *Syscon Co.,Ltd*)
+- [*now*]Technical Research Personnel that is one of the Alternative Military Service(2019.05.15 ~ 2022.05.14)
 - and.. I'm studying in order to be an *AI Robotics Engineer*
 
 ### Interest
