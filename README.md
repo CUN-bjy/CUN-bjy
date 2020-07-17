@@ -13,8 +13,8 @@
 
 #### *Side Project*🔭
 - [WalkYTo-rl](https://github.com/CUN-bjy/WalkYTo-rl) *(in process)*
+  - [walkyto-ddpg](https://github.com/CUN-bjy/walkyto-ddpg) *(in progress)*
 - [pg-paper-review](https://github.com/CUN-bjy/pg-paper-review) *(in process)*
-- [walkyto-ddpg](https://github.com/CUN-bjy/walkyto-ddpg) *(in progress)*
 
 <!--
 **CUN-bjy/CUN-bjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
