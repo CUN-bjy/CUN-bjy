@@ -4,6 +4,7 @@
 
 ### Robotics Software Engineer
 - [*now*]Robotics Software Engineer in the field of Industrial Mobile Robot(AMR) (at *Syscon Co.,Ltd*)
+- and.. I'm studying in order to be an *AI Robotics Engineer*
 
 ### Interest
 - Reinforcement Learning(especially Physical Control Intelligence)
