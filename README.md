@@ -11,7 +11,7 @@
 - Reinforcement Learning(especially Physical Control Intelligence)
 - Motion Planning and Control(Mobile Robot Navigation)
 - SLAM(especially localization)
-- Vision(Perception etc.)
+- Vision(Perception using Lidar, Camera or Pointcloud etc.)
 
 #### *Side Project*🔭
 - [WalkYTo-rl](https://github.com/CUN-bjy/WalkYTo-rl) *(in process)*
