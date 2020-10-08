@@ -13,7 +13,7 @@
 
 ### Interest
 
-- Reinforcement Learning(especially Physical Control Intelligence)
+- Reinforcement Learning(especially Hierarchical RL, Multi-Task Learning, Physical Control Learning)
 - Motion Planning and Control(Mobile Robot Navigation)
 - SLAM(especially localization)
 - Vision(Perception using Lidar, Camera or Pointcloud etc.)
