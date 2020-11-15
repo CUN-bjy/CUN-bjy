@@ -3,7 +3,7 @@
 
 
 ### Robotics Software Engineer  
-![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)   ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)   ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff) ![](https://img.shields.io/badge/-%3A%3A%3AROS-red) ![](https://aleen42.github.io/badges/src/tensorflow.svg) ![](https://aleen42.github.io/badges/src/github.svg)
 
 
 
