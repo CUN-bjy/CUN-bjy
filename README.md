@@ -21,7 +21,7 @@
 #### *Side Project*🔭
 
 - [gym-ddpg-keras](https://github.com/CUN-bjy/gym-ddpg-keras) *(done)*
-- [gym-td3-keras]()*(soon)*
+- [gym-td3-keras](https://github.com/CUN-bjy/gym-td3-keras)*(soon)*
 - [gym-ppo-keras](https://github.com/CUN-bjy/gym-ppo-keras)*(soon)*
 - [rl-paper-review](https://github.com/CUN-bjy/pg-paper-review) *(in process)*
 - [WalkYTo-rl-gym](https://github.com/CUN-bjy/WalkYTo-rl) *(archived)* 
