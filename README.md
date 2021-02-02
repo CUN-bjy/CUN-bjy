@@ -1,5 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCUN-bjy)](https://hits.seeyoufarm.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/junyeob-baek-640abb5b/) [![](https://aleen42.github.io/badges/src/github.svg)](https://github.com/CUN-bjy)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/junyeob-baek-640abb5b/) [![](https://aleen42.github.io/badges/src/github.svg)](https://github.com/CUN-bjy)<a href="https://ropiens.tistory.com/category/whitebot">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ropiens.tistory.com/category/whitebot"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 ### Robotics Software Engineer  
