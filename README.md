@@ -25,3 +25,7 @@
 - [gym-ppo-pytorch](https://github.com/CUN-bjy/gym-ppo-keras)*(soon)*
 - [rl-paper-review](https://github.com/CUN-bjy/pg-paper-review) *(in process)*
 - [WalkYTo-rl-gym](https://github.com/CUN-bjy/WalkYTo-rl) *(archived)* 
+
+
+#### *Blog*
+https://ropiens.tistory.com/category/whitebot
