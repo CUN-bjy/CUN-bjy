@@ -26,6 +26,5 @@
 
 - [gym-td3-keras](https://github.com/CUN-bjy/gym-td3-keras)*(in progress)*
 - [gym-ddpg-keras](https://github.com/CUN-bjy/gym-ddpg-keras) *(done)*
-- [gym-ppo-pytorch](https://github.com/CUN-bjy/gym-ppo-keras)*(soon)*
 - [rl-paper-review](https://github.com/CUN-bjy/pg-paper-review) *(in process)*
 - [WalkYTo-rl-gym](https://github.com/CUN-bjy/WalkYTo-rl) *(archived)* 
