@@ -19,7 +19,7 @@ skilled in "{
 - Perception(using Lidar, Camera or Pointcloud etc.)
 - SLAM(especially localization)
 
-#### *Side Project*🔭
+#### *Side Projects*🔭
 - [policy-distillation-for-control](https://github.com/CUN-bjy/policy-distillation-for-control)*(in progress)*
 - [gym-td3-keras](https://github.com/CUN-bjy/gym-td3-keras)*(hold)*
 - [gym-ddpg-keras](https://github.com/CUN-bjy/gym-ddpg-keras) *(done)*
