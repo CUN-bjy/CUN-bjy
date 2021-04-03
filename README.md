@@ -12,7 +12,7 @@ skilled in "{
 - [*now*]Technical Research Personnel that is one of the Alternative Military Service(2019.05.15 ~ 2022.05.14, 3 years)
 - and.. I'm trying to study in order to be an *AI Robotics Engineer*
 
-### Interest
+### Interests
 
 - Reinforcement Learning(especially Hierarchical RL, Multi-Task Learning, Physical Control Learning)
 - Motion Planning and Control(Mobile Robot Navigation)
