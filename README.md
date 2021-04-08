@@ -20,7 +20,7 @@ skilled in "{
 - SLAM(especially localization)
 
 #### *Side Projects*🔭
-- [policy-distillation-for-control](https://github.com/CUN-bjy/policy-distillation-for-control)*(in progress)*
+- [policy-distillation-baselines](https://github.com/CUN-bjy/policy-distillation-baselines)*(in progress)*
 - [gym-td3-keras](https://github.com/CUN-bjy/gym-td3-keras)*(hold)*
 - [gym-ddpg-keras](https://github.com/CUN-bjy/gym-ddpg-keras) *(done)*
 - [rl-paper-review](https://github.com/CUN-bjy/pg-paper-review) *(in process)*
