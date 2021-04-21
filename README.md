@@ -14,7 +14,7 @@ skilled in "{
 
 ### Interests
 
-- Reinforcement Learning(especially Hierarchical RL, Multi-Task Learning, Physical Control Learning)
+- Reinforcement Learning(especially Continual RL)
 - Motion Planning and Control(Mobile Robot Navigation)
 - Perception(using Lidar, Camera or Pointcloud etc.)
 - SLAM(especially localization)
