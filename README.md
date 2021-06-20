@@ -10,7 +10,7 @@ skilled in "{
 
 - [*now*] ML Research Engineer focused on Robotics Control & Optimization using RL&ML(at *MakinaRocks*)
 - Robotics Software Engineer in the field of Industrial Mobile Robot(AMR) (2017.12 ~ 2021.06, at *Syscon Co.,Ltd*)
-- and.. I'm trying to study in order to be an *AI Robotics Engineer*
+- and.. I'm eager to study in order to be an *AI Robotics Engineer*
 
 ### Interests
 
