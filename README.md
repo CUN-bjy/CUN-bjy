@@ -20,6 +20,7 @@ skilled in "{
 - SLAM(especially localization)
 
 #### *Side Projects*🔭
+- [project-sandwich-man](https://github.com/ropiens/project-sandwich-man)*(in progress)*
 - [policy-distillation-baselines](https://github.com/CUN-bjy/policy-distillation-baselines)*(done)*
 - [gym-td3-keras](https://github.com/CUN-bjy/gym-td3-keras)*(hold)*
 - [gym-ddpg-keras](https://github.com/CUN-bjy/gym-ddpg-keras) *(done)*
