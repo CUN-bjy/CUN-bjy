@@ -17,7 +17,6 @@ skilled in "{
 - Reinforcement Learning(especially in Continual Learning for robotics, Meta Learning, Multi-Task Learning)
 - Motion Planning and Control(Mobile Robot Navigation, Robot Manipulation)
 - Perception(using Lidar, Camera or Pointcloud etc.)
-- SLAM(especially localization)
 
 #### *Side Projects*🔭
 - [project-sandwich-man](https://github.com/ropiens/project-sandwich-man) *(in progress)*
