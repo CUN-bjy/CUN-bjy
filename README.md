@@ -8,9 +8,9 @@ skilled in "{
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />, <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" /> 
 }"
 
+### Experiences
 - ML Research Engineer focused on Robotics Control & Optimization using RL&ML(21.06 ~ 22.06, at *MakinaRocks*)
 - Robotics Software Engineer in the field of Industrial Mobile Robot(AMR) (17.12 ~ 21.06, at *Syscon Co.,Ltd*)
-- and.. I'm eager to study in order to be an *AI Robotics Engineer*
 
 ### Interests
 
